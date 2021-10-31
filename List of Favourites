@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>nested list
+</title>
+</head>
+<body>
+<ol type="i" start="3" reversed >
+<li>indian
+<ul type="disc">
+<li>chole bhature
+<li>pav bhajhi
+<li>paneer naan
+<li>daal bati
+</ul>
+<li>italian
+<ul >
+<li>pasta
+<li>pizza
+<li>burger
+</ul>
+</ol>
+</body>
+</html>
